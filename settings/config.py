@@ -1,0 +1,2 @@
+API_KEY=""
+SPEAK_BACK = True
