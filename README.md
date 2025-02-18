@@ -10,3 +10,9 @@ https://github.com/rhasspy/piper
 # How to run the example
 
 Open terminal window and use uvx main.py
+
+# Where to paste Gemini API key
+
+```
+settings/config.py
+```
