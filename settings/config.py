@@ -1,2 +1,2 @@
-API_KEY=""
+API_KEY="AIzaSyDE8XhIF25_W6m9eSRiiucZvLEls20aTpE"
 SPEAK_BACK = True
